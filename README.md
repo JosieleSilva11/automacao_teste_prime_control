@@ -1,5 +1,5 @@
 Neste projeto, o Playwright foi utilizado em conjunto com o Robot Framework e a biblioteca browser para criar e executar testes automatizados para aplicativos web. 
-É uma ferramenta de automação de testes de ponta a ponta para navegadores da web.
+É uma ferramenta de automação de testes de ponta a ponta para navegadores web.
 
 **Instalar o Python:**
 

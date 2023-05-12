@@ -13,6 +13,5 @@ CT01 - Realizar cadastro com sucesso
 CT02 - Tentar fazer um cadastro sem preencher um campo obrigatório 
     Dado que o usuário esteja no site 
     Quando preencher quase todos os campos
-    # E clicar no botão Submit
     Então o sistema deve apresentar a tela com a mensagem de obrigatoriedade do campo não preenchido
     

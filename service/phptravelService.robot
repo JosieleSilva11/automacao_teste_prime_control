@@ -18,10 +18,7 @@ Então o sistema deve apresentar a tela com a mensagem “Thank you!”
 ###CT02
 Quando preencher quase todos os campos
     Prencher alguns campos   
-
-E clicar no botão Submit
-   Clicar no botao        
-
+      
 Então o sistema deve apresentar a tela com a mensagem de obrigatoriedade do campo não preenchido
     Validar mensagem alerta   
         

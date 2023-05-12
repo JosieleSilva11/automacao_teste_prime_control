@@ -34,7 +34,6 @@ Prencher alguns campos
 Validar mensagem alerta
     ${promise} =         Promise To    Wait For Alert    action=accept
     Click              css=button[id='demo']
-    Sleep    5s
     ${text} =            Wait For      ${promise}
     Should Be Equal      ${text}         Please type your first name   
     Take Screenshot
